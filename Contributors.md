@@ -6,3 +6,4 @@
 - [Médoune Siby Georges Baldé](https://github.com/MedouneSGB)
 - [Mouhamadou Moustapha Sissokho](https://github.com/sissokho)
 - [Ibrahima Gaye](https://github.com/ibsom)
+- [BlackHoax](https://github.com/BlackHoax/)
