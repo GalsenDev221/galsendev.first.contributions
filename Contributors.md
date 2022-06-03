@@ -7,3 +7,4 @@
 - [Mouhamadou Moustapha Sissokho](https://github.com/sissokho)
 - [Ibrahima Gaye](https://github.com/ibsom)
 - [BlackHoax](https://github.com/BlackHoax/)
+- [Oumar Fall](https://github.com/omar6260/)
