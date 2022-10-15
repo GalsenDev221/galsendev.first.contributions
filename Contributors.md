@@ -15,3 +15,4 @@
 - [Assane Yacouba Anida](https://github.com/Anida-Assane)
 - [Lamine MBENGUE](https://github.com/LamineMBENGUE/)
 - [Al Seny DIALLO](https://github.com/alseny-diallo/)
+- [Darwin Tchicaya](https://github.com/darwintchic/)
