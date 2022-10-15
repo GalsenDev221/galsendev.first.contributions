@@ -13,3 +13,4 @@
 - [seegah](https://github.com/seegah/)
 - [Birame Ndoye](https://github.com/biramendoye)
 - [Assane Yacouba Anida](https://github.com/Anida-Assane)
+- [Lamine MBENGUE](https://github.com/LamineMBENGUE/)
