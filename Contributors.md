@@ -18,3 +18,4 @@
 - [Bruna Oliveira ](https://github.com/bruna-luc)
 - [Mohamed MBENGUE](https://github.com/LamineMBENGUE/)
 - [Darwin Tchicaya](https://github.com/darwintchic/)
+- [Asse Badiane](https://github.com/Bonde98/)
