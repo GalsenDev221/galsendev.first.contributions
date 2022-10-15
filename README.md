@@ -175,3 +175,16 @@ et vous pouvez supprimer sa version dans le répertoire distant aussi :
 git push origin --delete <add-votre-nom>
 ```
 Ceci n'est pas nécessaire, mais le nom de la branche montre que son objectif est assez spécifique. Sa durée de vie peut être courte.
+
+# CONCLUSION 
+
+Bien que GitHub soit principalement connu au sein de la communauté des 
+ingénieurs logiciels, il peut être utilisé dans une variété de secteurs différents. 
+Toute équipe ou entreprise qui travaille sur différents projets nécessitant un 
+développement sous forme de fichiers peut utiliser ce service.
+Par exemple, les équipes de contenu et de marketing peuvent utiliser GitHub pour 
+organiser leurs projets. Les créatifs indépendants peuvent l’utiliser pour gérer leur 
+travail lorsqu’ils collaborent avec d’autres personnes.
+Utiliser GitHub ne signifie pas nécessairement utiliser du code ou être un 
+développeur. Il s’agit d’une plateforme gratuite de système de contrôle de version 
+qui peut être utilisée de nombreuses manières différentes
