@@ -17,6 +17,21 @@ de leur progression.
 Pour mieux comprendre ce qu’est GitHub et comment il fonctionne, nous devons en 
 regarder alors plus en profondeur.
 
+# Qu’est-ce que Git ?
+Git est un projet open-source qui a été lancé en 2005 et qui est devenu l’un des 
+VCS les plus populaires du marché – plus de 87% des développeurs utilisent Git pour leurs projets.
+Il s’agit d’un système de contrôle de version distribué. Cela signifie que tout 
+développeur de l’équipe ayant un accès autorisé peut gérer le code source et 
+l’historique des modifications à l’aide des outils de ligne de commande Git.
+Contrairement aux systèmes de contrôle de version centralisés, 
+Git offre des branches de fonctionnalités. Cela signifie que 
+chaque ingénieur logiciel de l’équipe peut créer une branche de fonctionnalité qui 
+fournit un dépôt local isolé pour apporter des modifications au code.
+Les branches de fonctionnalités n’affectent pas la branche principale, où se trouve 
+le code original du projet. Une fois les modifications effectuées et le code mis à jour 
+prêt, la branche des fonctionnalités peut être fusionnée avec la branche principale, 
+et c’est ainsi que les modifications apportées au projet deviennent effectives.
+
 # Ma première contribution
 
 C'est toujours compliqué la première fois que l'on fait quelque chose. La peur de faire des fautes n'est pas du tout confortable, spécialement quand vous collaborez. Mais le monde du logiciel libre est fait de collaboration et de travail de groupe. Aussi, nous voulons simplifier l'apprentissage des nouveaux contributeurs au logiciel libre en vous enseignant à contribuer pour la première fois.  
