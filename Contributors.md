@@ -20,3 +20,5 @@
 - [Darwin Tchicaya](https://github.com/darwintchic/)
 - [Asse Badiane](https://github.com/Bonde98/)
 - [Elhadj Sadou Barry](https://github.com/Fatima1422/)
+- [Ramatoulaye TINE](https://github.com/Ramatoulaye555/)
+- 
