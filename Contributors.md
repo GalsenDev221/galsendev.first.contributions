@@ -14,4 +14,5 @@
 - [Birame Ndoye](https://github.com/biramendoye)
 - [Assane Yacouba Anida](https://github.com/Anida-Assane)
 - [Lamine MBENGUE](https://github.com/LamineMBENGUE/)
+- [Al Seny DIALLO](https://github.com/alseny-diallo/)
 - [Bruna Oliveira ](https://github.com/bruna-luc)
