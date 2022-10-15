@@ -11,3 +11,4 @@
 - [Galsen DEV](https://github.com/GalsenDev221)
 - [Hacktoberfest 2022](https://hacktoberfest.com/)
 - [seegah](https://github.com/seegah/)
+- [Birame Ndoye](https://github.com/biramendoye)
