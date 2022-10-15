@@ -6,6 +6,7 @@
 Inspiré par [First Contributions](https://github.com/firstcontributions/first-contributions) de [Roshan Jossey](https://github.com/Roshanjossey)
 
 # GitHub C’est Quoi et Comment l'utiliser ?
+
 GitHub est considéré comme un outil essentiel pour les ingénieurs logiciels, et sa 
 popularité est inégalée. Il accueille actuellement plus de `25 millions` d’utilisateurs. 
 C’est un nombre considérable de professionnels qui se tournent vers GitHub pour 
@@ -17,7 +18,25 @@ de leur progression.
 Pour mieux comprendre ce qu’est GitHub et comment il fonctionne, nous devons en 
 regarder alors plus en profondeur.
 
+# Qu’est-ce que le contrôle de version ?
+
+Le contrôle de version est un système qui permet de suivre et de gérer les 
+modifications apportées à un fichier ou à un ensemble de fichiers. Principalement 
+utilisé par les ingénieurs logiciels pour suivre les modifications apportées au code 
+source, le système de contrôle de version leur permet d’analyser toutes les 
+modifications et de les annuler sans répercussion en cas d’erreur.
+En d’autres termes, le contrôle de version permet aux développeurs de travailler 
+simultanément sur des projets. Il leur permet d’apporter autant de modifications 
+qu’ils le souhaitent sans empiéter sur le travail de leurs collègues ni le retarder.
+Si les dites modifications du code source ruinent le projet au moment de leur 
+déploiement, GitHub permet de les annuler facilement en quelques clics, et la 
+version précédente du projet sera ramenée.
+En résumé, le contrôle de version élimine les risques et l’aléa de faire trop 
+d’erreurs. Au contraire, il offre la liberté de collaborer et de développer sans trop 
+d’inquiétude.
+
 # Qu’est-ce que Git ?
+
 Git est un projet open-source qui a été lancé en 2005 et qui est devenu l’un des 
 VCS les plus populaires du marché – plus de 87% des développeurs utilisent Git pour leurs projets.
 Il s’agit d’un système de contrôle de version distribué. Cela signifie que tout 
