@@ -12,3 +12,4 @@
 - [Hacktoberfest 2022](https://hacktoberfest.com/)
 - [seegah](https://github.com/seegah/)
 - [Birame Ndoye](https://github.com/biramendoye)
+- [Assane Yacouba Anida](https://github.com/Anida-Assane)
