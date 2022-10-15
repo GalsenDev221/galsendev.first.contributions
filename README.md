@@ -5,6 +5,18 @@
 
 Inspiré par [First Contributions](https://github.com/firstcontributions/first-contributions) de [Roshan Jossey](https://github.com/Roshanjossey)
 
+# GitHub C’est Quoi et Comment l'utiliser ?
+GitHub est considéré comme un outil essentiel pour les ingénieurs logiciels, et sa 
+popularité est inégalée. Il accueille actuellement plus de `25 millions` d’utilisateurs. 
+C’est un nombre considérable de professionnels qui se tournent vers GitHub pour 
+améliorer le flux de travail et la collaboration.
+En bref, GitHub est un service basé sur le cloud qui héberge un système de 
+contrôle de version (VCS) appelé Git. Il permet aux développeurs de collaborer et 
+d’apporter des modifications à des projets partagés tout en gardant un suivi détaillé 
+de leur progression.
+Pour mieux comprendre ce qu’est GitHub et comment il fonctionne, nous devons en 
+regarder alors plus en profondeur.
+
 # Ma première contribution
 
 C'est toujours compliqué la première fois que l'on fait quelque chose. La peur de faire des fautes n'est pas du tout confortable, spécialement quand vous collaborez. Mais le monde du logiciel libre est fait de collaboration et de travail de groupe. Aussi, nous voulons simplifier l'apprentissage des nouveaux contributeurs au logiciel libre en vous enseignant à contribuer pour la première fois.  
