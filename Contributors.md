@@ -23,4 +23,5 @@
 - [Papa Matar DIOP](https://github.com/zlorgoncho1)
 - [Diadia Diouf](https://github.com/Diadia-Coder)
 - [Mouhamed Diop](https://github.com/Devdiop221)
+- [EMMANUEL DIATTA 🎶](https://github.com/Lowkey-Emmanuel)
 - [Honorable con](https://github.com/honorablecon)
