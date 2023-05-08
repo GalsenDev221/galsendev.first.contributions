@@ -17,6 +17,7 @@
 - [Bruna Oliveira](https://github.com/bruna-luc)
 - [Darwin Tchicaya](https://github.com/darwintchic)
 - [Asse Badiane](https://github.com/Bonde98)
+- [Moustapha Sambe](https://github.com/taphacoobams)
 - [Elhadj Sadou Barry](https://github.com/Fatima1422)
 - [SP KariSims](https://github.com/KariSims)
 - [Ramatoulaye TINE](https://github.com/Ramatoulaye555)
