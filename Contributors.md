@@ -29,4 +29,5 @@
 - [Lotfi Jebali](https://github.com/lotfijb)
 - [Lucien Loua](https://github.com/xyhomi3)
 - [Sibo Balde](https://github.com/SIBO-BALDE)
+- [Salem Malick Mohamed](https://github.com/saloum45)
 
