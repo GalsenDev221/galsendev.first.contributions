@@ -32,3 +32,4 @@
 - [Salem Malick Mohamed](https://github.com/saloum45)
 - [Ndeye Amie Thiam](https://github.com/NdeyeAmie)
 - [Mouhamed El Malick Hanne](https://github.com/mouhamedhanne)
+- [Ramata KA](https://github.com/kumbissk)
