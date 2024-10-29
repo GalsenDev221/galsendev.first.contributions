@@ -38,3 +38,4 @@
 - [Seydou Diallo](https://github.com/douseyx03)
 - [Mouhammad Ndour](https://github.com/ndourmouhammad)
 - [Fatou Binetou GAYE](https://github.com/binetougaye)
+- [Salem Mohamed](https://github.com/salemMalickMohamed)
