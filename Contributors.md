@@ -9,7 +9,7 @@
 - [BlackHoax](https://github.com/BlackHoax/)
 - [Oumar Fall](https://github.com/omar6260/)
 - [Galsen DEV](https://github.com/GalsenDev221)
-- [Seegah](https://github.com/seegah)
+- [Ndeye Siga POUILLE](https://github.com/seegah)
 - [Birame Ndoye](https://github.com/biramendoye)
 - [Assane Yacouba Anida](https://github.com/Anida-Assane)
 - [Lamine MBENGUE](https://github.com/LamineMBENGUE)
