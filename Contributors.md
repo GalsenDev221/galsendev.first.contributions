@@ -9,7 +9,7 @@
 - [BlackHoax](https://github.com/BlackHoax/)
 - [Oumar Fall](https://github.com/omar6260/)
 - [Galsen DEV](https://github.com/GalsenDev221)
-- [Seegah](https://github.com/seegah)
+- [Ndeye Siga POUILLE](https://github.com/seegah)
 - [Birame Ndoye](https://github.com/biramendoye)
 - [Assane Yacouba Anida](https://github.com/Anida-Assane)
 - [Lamine MBENGUE](https://github.com/LamineMBENGUE)
@@ -35,5 +35,5 @@
 - [Ramata KA](https://github.com/kumbissk)
 - [Modou Aicha Diop](https://github.com/modouaicha023)
 - [Malick Siguy NDIAYE](https://github.com/MalicknND)
-- [Mouhammad Ndour] (https://github.com/ndourmouhammad)
-
+- [Seydou Diallo](https://github.com/douseyx03)
+- [Mouhammad Ndour](https://github.com/ndourmouhammad)
