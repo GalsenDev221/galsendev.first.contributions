@@ -41,3 +41,4 @@
 - [Salem Mohamed](https://github.com/salemMalickMohamed)
 - [Mouhamadou Fall Bah](https://github.com/mouhamadoufallBah)
 - [Lassana Siby](https://github.com/sibylassana95)
+- [Mapathé Ndiaye](https://github.com/SNcodeur2001)
